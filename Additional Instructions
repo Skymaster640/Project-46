@@ -1,0 +1,64 @@
+Sun Jumper 0.5.5
+
+
+This file will be used to give any information regarding
+playing the game, whether it would be controls or
+how the game elements work. This file will be updated
+with each progress update with new information each time.
+
+The Player: They are controlled with W, A, and D. The S
+button will be given functionality in the future.
+W is to jump, A is to go to the left, and D is to go to
+the right. If you press the spacebar, the player will 
+swing their sword, and it will create a white slash
+in front of them, and will defeat most enemies that it
+touches.
+
+The Enemy (No name given): They will attempt to block
+you from progressing, and will copy your jumps at the
+exact moment you make them. They will also follow you,
+whether it would be from the left or right. If you get
+hit by the enemy, you will respawn either at the original
+spawn location, or at a checkpoint flag.
+
+The Flag: Flags like this one will serve as checkpoints 
+throughout the game, all one must do to unlock that 
+checkpoint is to touch it. This will make it so whenever
+you get hit by an enemy, you will always respawn at that 
+checkpoint flag.
+
+The Cloud: Clouds are a type of platform that will be seen
+heavily in the game, it serves as a regular platform when 
+jumped on, but when jumping off a cloud, it will disappear.
+There are plans to have different types of clouds, symbolized
+by their color.
+
+The Spring: Springs are just one type of powerup seen in the
+game. When collected, the Player character will gain a
+higher jump. Currently, there is no way for this effect to
+wear off.
+
+The Life Counter: At the top left corner of the screen,
+there is a counter with a number next to it. This will show
+you how many lives you have. The default amount of lives you
+will have will be 3. In the future, there will be an item that
+will add lives to the counter. Once you run out of lives, you
+will get a GAME OVER. In this state, none of the controls will
+operate, nothing will move, and in order to get out of this
+state, you will have to refresh the game.
+
+The Shadowling: These are a type of enemy that will follow the
+player as long as they are not seen, and will freeze in place
+when looked at. Touching this enemy will make you lose a life.
+
+The Flame: These are enemies that can't be defeated, and serve
+as more of an obstacle than an actual enemy. They bounce up and
+down in one spot, and causes damage when touched.
+
+The Conveyor Belts: A type of obstacle that moves the player
+in high speeds when stood on. The direction is shown by the
+direction of the arrow.
+
+The Ladder: This is the "Goal system" of the game, when touched,
+the player will move to the next level. Or in this stage, just
+increase the level counter.
